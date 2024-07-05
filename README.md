@@ -8,6 +8,10 @@ Execute the script with default parameters:
 
 ```sh
 make run_python
+
+## OR
+
+make all
 ```
 
 ### Custom Execution
